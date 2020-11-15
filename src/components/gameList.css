@@ -1,0 +1,24 @@
+.info {
+  margin-bottom: 1rem;
+}
+
+.alert {
+  margin: 1rem 10rem;
+}
+
+ul {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.list-group-item {
+  background-color: #596273;
+}
+
+.gameItem {
+  background-color: #596273;
+}
+
+.gameItem p {
+  margin: 0.3rem 0;
+}
